@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "pycorreios3"
-version = "0.1.0"
+version = "1.2.2"
 description = "Acesso fácil a todos os web services dos correios."
 authors = ["Marcelo Bello <mbello@users.noreply.github.com>"]
 license = "CC0-1.0"
